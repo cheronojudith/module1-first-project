@@ -29,7 +29,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F717268678161986543%2F&psig=AOvVaw1WiN3Ue5BCoes2CROuNC0c&ust=1679503322118000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPCQv8-77f0CFQAAAAAdAAAAABAE" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse README Template</b></h3>
