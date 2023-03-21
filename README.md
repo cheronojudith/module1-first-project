@@ -62,9 +62,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [college Institution] <a name="about-project"></a>
+# 📖 college Institution <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+
 
 **[College Institution]** is a project that has been created for the first time
 
