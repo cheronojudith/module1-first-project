@@ -255,9 +255,9 @@ Feel free to check the [issues page](../../issues/).
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-- **[Do you want to Know more about my project?]**
+- **Do you want to Know more about my project?**
 
-  - [Reach me out through my contacts for more info]
+  - Reach me out through my contacts for more info
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
