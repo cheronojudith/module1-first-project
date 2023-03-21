@@ -1,5 +1,4 @@
 # module1-first-project
-creating my first branch
 <a name="readme-top"></a>
 
 <!--
