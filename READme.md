@@ -62,12 +62,10 @@ After you're finished please remove all the comments and instructions!
 > This is Hello Microverse I created with HTML and CSS
 
 ## 🛠 Built With <a name="built-with"></a>
-1- HTML
-2-CSS
+- HTML
+- CSS
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -82,10 +80,8 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - Added index.html file
-Added style.css
+- Added style.css
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -186,8 +182,6 @@ comming soon
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] Add the header
 - [ ] Add the footer
 - [ ] Add about me
@@ -222,8 +216,6 @@ I would like to thank Microverse for making me  a software developer.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
