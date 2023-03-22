@@ -150,13 +150,13 @@ open index.html using live server extension
 
 To run tests, run the following command:
 
-### comming soon
+ coming soon
 
 ### Deployment
 
 You can deploy this project using:
 
-### comming soon
+ coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
