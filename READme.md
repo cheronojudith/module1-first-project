@@ -97,8 +97,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -152,21 +150,19 @@ open index.html using live server extension
 
 To run tests, run the following command:
 
-comming soon
+### comming soon
 
 ### Deployment
 
 You can deploy this project using:
 
-comming soon
+### comming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 Judith Cherono
 
